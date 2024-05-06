@@ -1,0 +1,6 @@
+framework module Pods_ebay_ebayUITests {
+  umbrella header "Pods-ebay-ebayUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

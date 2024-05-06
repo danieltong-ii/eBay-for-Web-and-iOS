@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1238A9E1-BF2B-42B7-958B-1D36762167DE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A507F5CF-7686-42E6-BEF4-2C39368B5AA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Model/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "Condition"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CF9F0C0-2F23-4216-88AC-A8C24045A797"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Model/ResultsData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "loadResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4F6B9B8-CF8D-45AF-BCA0-3B79C6547B44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/ebayApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ebayApp"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99AC526D-3289-4F67-B13D-82C224ED49A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Views/ProductSearch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "ProductSearch"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "99AC526D-3289-4F67-B13D-82C224ED49A1 - 68c57b323c3921de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ebay.ProductSearch.init() -&gt; ebay.ProductSearch"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "99AC526D-3289-4F67-B13D-82C224ED49A1 - 1bcfb5dcde4b90bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ebay.ProductSearch.init(productKey: Swift.String, zipcode: Swift.String, used_con: Swift.Bool, new_con: Swift.Bool, unspec_con: Swift.Bool, pickup_shipping: Swift.Bool, free_shipping: Swift.Bool, distance: Swift.String, submitted: Swift.Bool, resultsLoading: Swift.Bool) -&gt; ebay.ProductSearch"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "99AC526D-3289-4F67-B13D-82C224ED49A1 - 68c57b323c3921de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ebay.ProductSearch.init() -&gt; ebay.ProductSearch"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1432">
+               </Location>
+               <Location
+                  uuid = "99AC526D-3289-4F67-B13D-82C224ED49A1 - 1bcfb5dcde4b90bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ebay.ProductSearch.init(productKey: Swift.String, zipcode: Swift.String, used_con: Swift.Bool, new_con: Swift.Bool, unspec_con: Swift.Bool, pickup_shipping: Swift.Bool, free_shipping: Swift.Bool, distance: Swift.String, submitted: Swift.Bool, resultsLoading: Swift.Bool) -&gt; ebay.ProductSearch"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C7A487C-9308-4FF5-8A05-C64E43A52B10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Model/APIFetchHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "mainSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "280EE445-49BA-4A74-B723-97A12B81BE07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Views/ProductSearch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "347"
+            endingLineNumber = "347"
+            landmarkName = "getZipcode()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "280EE445-49BA-4A74-B723-97A12B81BE07 - 87ca64738f03c1a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in ebay.ProductSearch.getZipcode() -&gt; ()"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "280EE445-49BA-4A74-B723-97A12B81BE07 - 55ed926cdebdbd5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in ebay.ProductSearch.getZipcode() -&gt; ()"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductSearch.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B5C6EA1-87D9-4D56-809D-6169A3727745"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Views/ProductSearch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "loadSearchParams()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18AA52D4-8633-440B-AE33-6E201B1593B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Views/ProductSearch.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "406"
+            endingLineNumber = "406"
+            landmarkName = "loadSearchParams()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "810D272F-C2DE-4960-9DCB-A52090AD263E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Views/ProductRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "810D272F-C2DE-4960-9DCB-A52090AD263E - d77a6155e8648c54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ebay.ProductRow.body.getter : some"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "810D272F-C2DE-4960-9DCB-A52090AD263E - 51eb317b7dbcb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in ebay.ProductRow.body.getter : some"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Views/ProductRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA7D1521-4339-4404-9280-25DFFE5CCED0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Managers/SingleItemManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchSingleEbayItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA7D1521-4339-4404-9280-25DFFE5CCED0 - e502d9cc5d42f530"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ebay.SingleItemManager.fetchSingleEbayItem() async throws -&gt; ebay.SingleItemModel"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Managers/SingleItemManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "BA7D1521-4339-4404-9280-25DFFE5CCED0 - 7407ae60ff69b132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ebay.SingleItemManager.fetchSingleEbayItem() async throws -&gt; ebay.SingleItemModel"
+                  moduleName = "ebay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Developer/GitHubClones/danieltongusc.github.io/Assignment%204/ebay/ebay/ebay/Managers/SingleItemManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BEF972-F893-4352-BAC3-373CBD99F1E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Managers/SingleItemManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchSingleEbayItem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4484EF99-83F2-435E-94C8-E41C236B22CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Managers/SingleItemManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchSingleEbayItem()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB2522F1-F47B-4EE5-9064-80F38CD99F84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ebay/Managers/SimilarProductManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sort(sort_by:order:array:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
